@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a third year undergraduate at AIT pursuing BTech in Computer Engineering. I am a DSA Enthusiast and my skills include fronted development & Data Analytics
+I'm a third year undergraduate at AIT pursuing BTech in Computer Engineering. I am a DSA Enthusiast and my skills include frontend development & Data Analytics
 
 <!--
 **shashank321-png/shashank321-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
