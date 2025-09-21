@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a fourth year undergraduate at AIT pursuing BTech in Computer Engineering. I am a DSA Enthusiast and my skills include frontend development & Data Analytics</p>
+<p align="left">I am a DSA Enthusiast and my skills include frontend development & Data Analytics</p>
 
 ###
 
